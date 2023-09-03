@@ -207,3 +207,6 @@ This README provides an explanation of the CSS styles used in the provided CSS c
 
 These are the CSS styles used in the provided CSS code. Each style rule defines how specific elements in the HTML file should be displayed and styled.
 
+## Hosted Link
+You can access the live preview of the webpage https://bagheladarsh007.github.io/WeeklyTest-2/
+
